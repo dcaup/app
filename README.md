@@ -10,5 +10,3 @@
 
 3. **Unified Pipeline Orchestration**  
    Smart contracts (or similar on-chain logic) can govern **agent orchestration**, automatically activating and rewarding the agents best suited to each incoming task, leading to a robust and **scalable** architecture.
-
-Feel free to adapt or refine these points based on your organization’s specific goals and constraints.
